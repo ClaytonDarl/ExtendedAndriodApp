@@ -1,50 +1,6 @@
-# ![Logo](src/main/res/drawable-hdpi/ic_launcher.png) Diary [![Build Status](https://travis-ci.org/billthefarmer/diary.svg?branch=master)](https://travis-ci.org/billthefarmer/diary) [![Release](https://img.shields.io/github/release/billthefarmer/diary.svg?logo=github)](https://github.com/billthefarmer/diary/releases) [![Available on F-Droid](https://f-droid.org/wiki/images/c/ca/F-Droid-button_available-on_smaller.png)](https://f-droid.org/packages/org.billthefarmer.diary)
-
-
-Diary is an innovative app where you could put your personal notes or
-personal journals every day. It's one of the best choices out there!
-
-If you have a habit of writing on your diary every day, a safe, simple
-and easy mobile diary app could be of great help. To date, the
-continued innovation in technology has paved the way to the
-development of paperless diary and notebooks.
-
-It will help you keep it ordered by date like a traditional journal or
- personal diary.  You can make predictions about what will happen and
- see if they come true, and you can see how you changed over time, and
- read over memories, having a few laughs.  It's the funniest, quickest
- and easiest way to document your life through a series of notes.  The
- app is available on
- [F-Droid](https://f-droid.org/packages/org.billthefarmer.diary) and
- [here](https://github.com/billthefarmer/diary/releases).
-
-![Diary](https://github.com/billthefarmer/billthefarmer.github.io/raw/master/images/diary/Diary-phone.png) ![Calendar](https://github.com/billthefarmer/billthefarmer.github.io/raw/master/images/diary/Calendar-phone.png)
-
-![Calendar](https://github.com/billthefarmer/billthefarmer.github.io/raw/master/images/diary/Calendar-landscape.png)
-
-![Web browser](https://github.com/billthefarmer/billthefarmer.github.io/raw/master/images/diary/Web.png)
-
-![Markdown](https://github.com/billthefarmer/billthefarmer.github.io/raw/master/images/diary/Media-markdown.png) ![Media](https://github.com/billthefarmer/billthefarmer.github.io/raw/master/images/diary/Media-phone.png)
-
-There is a
-[help](https://github.com/billthefarmer/diary/blob/master/data/help.md),
-a
-[test](https://github.com/billthefarmer/diary/blob/master/data/test.md),
-an example
-[styles](https://github.com/billthefarmer/diary/blob/master/data/styles.md)
-file and an example
-[script](https://github.com/billthefarmer/diary/blob/master/data/script.md)
-file, which may be copied in to an entry for reference if required.
-
-### Playing video
-Recent versions of Android may not play videos in diary entries added
-using the **Add media** function. This is due to an apparent defect in
-the android
-[WebView](https://developer.android.com/reference/android/webkit/WebView)
-component. There is a [Android System
-WebView](https://play.google.com/store/apps/details?id=com.google.android.webview)
-system component in [Google Play](https://play.google.com/store), but
-installing it does not seem to help.
+# Diary
+---
+## Android personal diary.
 
 * Entries saved in plain text files
 * Browse entries
@@ -64,7 +20,6 @@ installing it does not seem to help.
 * Add events to calendar
 * Add events from calendar
 * Dark or light theme for editing
-* Back up entries to a zip file
 * Optional edit cursor position control
 
 ## Toolbar
@@ -233,7 +188,7 @@ the first line.
 ## Javascript
 You may add custom javascript to be loaded into all diary pages by
 placing a `script.js` file in the `Diary/js` folder. Use the built in
-editor to create a script file.  You must use the editor `accept` tick
+editor to create a script file. You must use the editor `accept` tick
 button to save the edits. Errors in the script will be logged by the
 [WebView](https://developer.android.com/reference/android/webkit/WebView)
 which displays the page. See

@@ -1,0 +1,4 @@
+#Tue Apr 07 14:11:01 EDT 2020
+base.0=/Users/claytondarlington/School/CIS3760/cis3760proj/build/intermediates/dex/debug/mergeDexDebug/out/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

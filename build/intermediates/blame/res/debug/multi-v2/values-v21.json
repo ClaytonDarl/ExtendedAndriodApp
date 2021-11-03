@@ -1,0 +1,28 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/claytondarlington/School/CIS3760/cis3760proj/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v21/values-v21.xml",
+            "map": [
+                {
+                    "source": "/Users/claytondarlington/School/CIS3760/cis3760proj/src/main/res/values-v21/styles.xml",
+                    "from": {
+                        "startLines": "8,12",
+                        "startColumns": "2,2",
+                        "startOffsets": "247,395",
+                        "endLines": "10,14",
+                        "endColumns": "10,10",
+                        "endOffsets": "391,523"
+                    },
+                    "to": {
+                        "startLines": "2,5",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,204",
+                        "endLines": "4,7",
+                        "endColumns": "10,10",
+                        "endOffsets": "199,332"
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,195 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<!--
+3    Diary - Personal diary for Android
+4    Copyright © 2012  Josep Portella Florit <hola@josep-portella.com>
+5
+6    This program is free software: you can redistribute it and/or modify
+7    it under the terms of the GNU General Public License as published by
+8    the Free Software Foundation, either version 3 of the License, or
+9    (at your option) any later version.
+10
+11    This program is distributed in the hope that it will be useful,
+12    but WITHOUT ANY WARRANTY; without even the implied warranty of
+13    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+14    GNU General Public License for more details.
+15
+16    You should have received a copy of the GNU General Public License
+17    along with this program.  If not, see <http://www.gnu.org/licenses/>.
+18-->
+19<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+20    package="org.billthefarmer.diary"
+21    android:installLocation="auto"
+22    android:versionCode="161"
+23    android:versionName="1.61" >
+24
+25    <uses-sdk
+26        android:minSdkVersion="14"
+26-->/Users/claytondarlington/School/CIS3760/cis3760proj/src/main/AndroidManifest.xml
+27        android:targetSdkVersion="28" />
+27-->/Users/claytondarlington/School/CIS3760/cis3760proj/src/main/AndroidManifest.xml
+28
+29    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+29-->/Users/claytondarlington/School/CIS3760/cis3760proj/src/main/AndroidManifest.xml:27:3-78
+29-->/Users/claytondarlington/School/CIS3760/cis3760proj/src/main/AndroidManifest.xml:27:20-75
+30    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+30-->/Users/claytondarlington/School/CIS3760/cis3760proj/src/main/AndroidManifest.xml:28:3-79
+30-->/Users/claytondarlington/School/CIS3760/cis3760proj/src/main/AndroidManifest.xml:28:20-76
+31    <uses-permission android:name="android.permission.READ_CALENDAR" />
+31-->/Users/claytondarlington/School/CIS3760/cis3760proj/src/main/AndroidManifest.xml:29:3-70
+31-->/Users/claytondarlington/School/CIS3760/cis3760proj/src/main/AndroidManifest.xml:29:20-67
+32    <uses-permission android:name="android.permission.WRITE_CALENDAR" />
+32-->/Users/claytondarlington/School/CIS3760/cis3760proj/src/main/AndroidManifest.xml:30:3-71
+32-->/Users/claytondarlington/School/CIS3760/cis3760proj/src/main/AndroidManifest.xml:30:20-68
+33    <uses-permission android:name="android.permission.INTERNET" />
+33-->/Users/claytondarlington/School/CIS3760/cis3760proj/src/main/AndroidManifest.xml:31:3-65
+33-->/Users/claytondarlington/School/CIS3760/cis3760proj/src/main/AndroidManifest.xml:31:20-62
+34    <uses-permission android:name="android.permission.CAMERA" />
+34-->/Users/claytondarlington/School/CIS3760/cis3760proj/src/main/AndroidManifest.xml:32:3-62
+34-->/Users/claytondarlington/School/CIS3760/cis3760proj/src/main/AndroidManifest.xml:32:20-60
+35
+36    <meta-data
+36-->/Users/claytondarlington/School/CIS3760/cis3760proj/src/main/AndroidManifest.xml:34:3-36:30
+37        android:name="android.webkit.WebView.MetricsOptOut"
+37-->/Users/claytondarlington/School/CIS3760/cis3760proj/src/main/AndroidManifest.xml:35:7-58
+38        android:value="true" />
+38-->/Users/claytondarlington/School/CIS3760/cis3760proj/src/main/AndroidManifest.xml:36:7-27
+39
+40    <application
+40-->/Users/claytondarlington/School/CIS3760/cis3760proj/src/main/AndroidManifest.xml:38:3-107:17
+41        android:allowBackup="true"
+41-->/Users/claytondarlington/School/CIS3760/cis3760proj/src/main/AndroidManifest.xml:39:7-33
+42        android:debuggable="true"
+43        android:icon="@drawable/ic_launcher"
+43-->/Users/claytondarlington/School/CIS3760/cis3760proj/src/main/AndroidManifest.xml:41:7-43
+44        android:label="@string/appName"
+44-->/Users/claytondarlington/School/CIS3760/cis3760proj/src/main/AndroidManifest.xml:42:7-38
+45        android:supportsRtl="true"
+45-->/Users/claytondarlington/School/CIS3760/cis3760proj/src/main/AndroidManifest.xml:40:7-33
+46        android:testOnly="true"
+47        android:theme="@style/AppTheme" >
+47-->/Users/claytondarlington/School/CIS3760/cis3760proj/src/main/AndroidManifest.xml:43:7-38
+48        <activity
+48-->/Users/claytondarlington/School/CIS3760/cis3760proj/src/main/AndroidManifest.xml:46:5-77:16
+49            android:name="org.billthefarmer.diary.Diary"
+49-->/Users/claytondarlington/School/CIS3760/cis3760proj/src/main/AndroidManifest.xml:47:9-29
+50            android:label="@string/appName"
+50-->/Users/claytondarlington/School/CIS3760/cis3760proj/src/main/AndroidManifest.xml:48:9-40
+51            android:windowSoftInputMode="stateHidden|adjustResize" >
+51-->/Users/claytondarlington/School/CIS3760/cis3760proj/src/main/AndroidManifest.xml:49:9-63
+52            <intent-filter>
+52-->/Users/claytondarlington/School/CIS3760/cis3760proj/src/main/AndroidManifest.xml:50:7-53:23
+53                <action android:name="android.intent.action.MAIN" />
+53-->/Users/claytondarlington/School/CIS3760/cis3760proj/src/main/AndroidManifest.xml:51:9-61
+53-->/Users/claytondarlington/School/CIS3760/cis3760proj/src/main/AndroidManifest.xml:51:17-58
+54
+55                <category android:name="android.intent.category.LAUNCHER" />
+55-->/Users/claytondarlington/School/CIS3760/cis3760proj/src/main/AndroidManifest.xml:52:9-69
+55-->/Users/claytondarlington/School/CIS3760/cis3760proj/src/main/AndroidManifest.xml:52:19-66
+56            </intent-filter>
+57            <intent-filter>
+57-->/Users/claytondarlington/School/CIS3760/cis3760proj/src/main/AndroidManifest.xml:54:7-61:23
+58                <action android:name="android.intent.action.SEND" />
+58-->/Users/claytondarlington/School/CIS3760/cis3760proj/src/main/AndroidManifest.xml:55:9-61
+58-->/Users/claytondarlington/School/CIS3760/cis3760proj/src/main/AndroidManifest.xml:55:17-58
+59
+60                <category android:name="android.intent.category.DEFAULT" />
+60-->/Users/claytondarlington/School/CIS3760/cis3760proj/src/main/AndroidManifest.xml:56:9-68
+60-->/Users/claytondarlington/School/CIS3760/cis3760proj/src/main/AndroidManifest.xml:56:19-65
+61
+62                <data android:mimeType="text/plain" />
+62-->/Users/claytondarlington/School/CIS3760/cis3760proj/src/main/AndroidManifest.xml:58:9-47
+62-->/Users/claytondarlington/School/CIS3760/cis3760proj/src/main/AndroidManifest.xml:58:15-44
+63                <data android:mimeType="audio/*" />
+63-->/Users/claytondarlington/School/CIS3760/cis3760proj/src/main/AndroidManifest.xml:58:9-47
+63-->/Users/claytondarlington/School/CIS3760/cis3760proj/src/main/AndroidManifest.xml:58:15-44
+64                <data android:mimeType="video/*" />
+64-->/Users/claytondarlington/School/CIS3760/cis3760proj/src/main/AndroidManifest.xml:58:9-47
+64-->/Users/claytondarlington/School/CIS3760/cis3760proj/src/main/AndroidManifest.xml:58:15-44
+65            </intent-filter>
+66            <intent-filter>
+66-->/Users/claytondarlington/School/CIS3760/cis3760proj/src/main/AndroidManifest.xml:62:7-68:23
+67                <action android:name="android.intent.action.SEND" />
+67-->/Users/claytondarlington/School/CIS3760/cis3760proj/src/main/AndroidManifest.xml:55:9-61
+67-->/Users/claytondarlington/School/CIS3760/cis3760proj/src/main/AndroidManifest.xml:55:17-58
+68                <action android:name="android.intent.action.SEND_MULTIPLE" />
+68-->/Users/claytondarlington/School/CIS3760/cis3760proj/src/main/AndroidManifest.xml:64:9-70
+68-->/Users/claytondarlington/School/CIS3760/cis3760proj/src/main/AndroidManifest.xml:64:17-67
+69
+70                <category android:name="android.intent.category.DEFAULT" />
+70-->/Users/claytondarlington/School/CIS3760/cis3760proj/src/main/AndroidManifest.xml:56:9-68
+70-->/Users/claytondarlington/School/CIS3760/cis3760proj/src/main/AndroidManifest.xml:56:19-65
+71
+72                <data android:mimeType="image/*" />
+72-->/Users/claytondarlington/School/CIS3760/cis3760proj/src/main/AndroidManifest.xml:58:9-47
+72-->/Users/claytondarlington/School/CIS3760/cis3760proj/src/main/AndroidManifest.xml:58:15-44
+73            </intent-filter>
+74            <intent-filter>
+74-->/Users/claytondarlington/School/CIS3760/cis3760proj/src/main/AndroidManifest.xml:69:7-76:23
+75                <action android:name="android.intent.action.VIEW" />
+75-->/Users/claytondarlington/School/CIS3760/cis3760proj/src/main/AndroidManifest.xml:70:9-61
+75-->/Users/claytondarlington/School/CIS3760/cis3760proj/src/main/AndroidManifest.xml:70:17-58
+76
+77                <category android:name="android.intent.category.BROWSABLE" />
+77-->/Users/claytondarlington/School/CIS3760/cis3760proj/src/main/AndroidManifest.xml:72:9-70
+77-->/Users/claytondarlington/School/CIS3760/cis3760proj/src/main/AndroidManifest.xml:72:19-67
+78                <category android:name="android.intent.category.DEFAULT" />
+78-->/Users/claytondarlington/School/CIS3760/cis3760proj/src/main/AndroidManifest.xml:56:9-68
+78-->/Users/claytondarlington/School/CIS3760/cis3760proj/src/main/AndroidManifest.xml:56:19-65
+79
+80                <data android:scheme="geo" />
+80-->/Users/claytondarlington/School/CIS3760/cis3760proj/src/main/AndroidManifest.xml:58:9-47
+80-->/Users/claytondarlington/School/CIS3760/cis3760proj/src/main/AndroidManifest.xml:75:15-35
+81            </intent-filter>
+82        </activity>
+83        <activity
+83-->/Users/claytondarlington/School/CIS3760/cis3760proj/src/main/AndroidManifest.xml:79:5-91:16
+84            android:name="org.billthefarmer.diary.Editor"
+84-->/Users/claytondarlington/School/CIS3760/cis3760proj/src/main/AndroidManifest.xml:80:9-30
+85            android:windowSoftInputMode="stateHidden|adjustResize" >
+85-->/Users/claytondarlington/School/CIS3760/cis3760proj/src/main/AndroidManifest.xml:81:9-63
+86            <intent-filter android:scheme="http" >
+86-->/Users/claytondarlington/School/CIS3760/cis3760proj/src/main/AndroidManifest.xml:82:7-90:23
+86-->/Users/claytondarlington/School/CIS3760/cis3760proj/src/main/AndroidManifest.xml:83:11-32
+87                <action android:name="android.intent.action.VIEW" />
+87-->/Users/claytondarlington/School/CIS3760/cis3760proj/src/main/AndroidManifest.xml:70:9-61
+87-->/Users/claytondarlington/School/CIS3760/cis3760proj/src/main/AndroidManifest.xml:70:17-58
+88                <action android:name="android.intent.action.EDIT" />
+88-->/Users/claytondarlington/School/CIS3760/cis3760proj/src/main/AndroidManifest.xml:86:9-61
+88-->/Users/claytondarlington/School/CIS3760/cis3760proj/src/main/AndroidManifest.xml:86:17-58
+89
+90                <category android:name="android.intent.category.DEFAULT" />
+90-->/Users/claytondarlington/School/CIS3760/cis3760proj/src/main/AndroidManifest.xml:56:9-68
+90-->/Users/claytondarlington/School/CIS3760/cis3760proj/src/main/AndroidManifest.xml:56:19-65
+91
+92                <data android:mimeType="text/*" />
+92-->/Users/claytondarlington/School/CIS3760/cis3760proj/src/main/AndroidManifest.xml:58:9-47
+92-->/Users/claytondarlington/School/CIS3760/cis3760proj/src/main/AndroidManifest.xml:58:15-44
+93            </intent-filter>
+94        </activity>
+95        <activity
+95-->/Users/claytondarlington/School/CIS3760/cis3760proj/src/main/AndroidManifest.xml:93:5-95:44
+96            android:name="org.billthefarmer.diary.Settings"
+96-->/Users/claytondarlington/School/CIS3760/cis3760proj/src/main/AndroidManifest.xml:94:9-32
+97            android:label="@string/settings" />
+97-->/Users/claytondarlington/School/CIS3760/cis3760proj/src/main/AndroidManifest.xml:95:9-41
+98
+99        <provider
+99-->/Users/claytondarlington/School/CIS3760/cis3760proj/src/main/AndroidManifest.xml:97:5-105:16
+100            android:name="android.support.v4.content.FileProvider"
+100-->/Users/claytondarlington/School/CIS3760/cis3760proj/src/main/AndroidManifest.xml:98:9-63
+101            android:authorities="org.billthefarmer.diary.fileprovider"
+101-->/Users/claytondarlington/School/CIS3760/cis3760proj/src/main/AndroidManifest.xml:99:9-67
+102            android:exported="false"
+102-->/Users/claytondarlington/School/CIS3760/cis3760proj/src/main/AndroidManifest.xml:100:9-33
+103            android:grantUriPermissions="true" >
+103-->/Users/claytondarlington/School/CIS3760/cis3760proj/src/main/AndroidManifest.xml:101:9-43
+104            <meta-data
+104-->/Users/claytondarlington/School/CIS3760/cis3760proj/src/main/AndroidManifest.xml:102:7-104:47
+105                android:name="android.support.FILE_PROVIDER_PATHS"
+105-->/Users/claytondarlington/School/CIS3760/cis3760proj/src/main/AndroidManifest.xml:103:11-61
+106                android:resource="@xml/filepaths" />
+106-->/Users/claytondarlington/School/CIS3760/cis3760proj/src/main/AndroidManifest.xml:104:11-44
+107        </provider>
+108    </application>
+109
+110</manifest>

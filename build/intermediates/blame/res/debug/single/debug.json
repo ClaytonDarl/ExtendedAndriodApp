@@ -1,0 +1,670 @@
+[
+    {
+        "merged": "/Users/claytondarlington/School/CIS3760/cis3760proj/build/intermediates/res/merged/debug/anim_flip_in.xml.flat",
+        "source": "/Users/claytondarlington/School/CIS3760/cis3760proj/src/main/res/anim/flip_in.xml"
+    },
+    {
+        "merged": "/Users/claytondarlington/School/CIS3760/cis3760proj/build/intermediates/res/merged/debug/drawable-xhdpi_ic_launcher.png.flat",
+        "source": "/Users/claytondarlington/School/CIS3760/cis3760proj/src/main/res/drawable-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/claytondarlington/School/CIS3760/cis3760proj/build/intermediates/res/merged/debug/layout_week.xml.flat",
+        "source": "/Users/claytondarlington/School/CIS3760/cis3760proj/src/main/res/layout/week.xml"
+    },
+    {
+        "merged": "/Users/claytondarlington/School/CIS3760/cis3760proj/build/intermediates/res/merged/debug/drawable-hdpi_ic_pref_about_dark.png.flat",
+        "source": "/Users/claytondarlington/School/CIS3760/cis3760proj/src/main/res/drawable-hdpi/ic_pref_about_dark.png"
+    },
+    {
+        "merged": "/Users/claytondarlington/School/CIS3760/cis3760proj/build/intermediates/res/merged/debug/drawable_ic_action_next.xml.flat",
+        "source": "/Users/claytondarlington/School/CIS3760/cis3760proj/src/main/res/drawable/ic_action_next.xml"
+    },
+    {
+        "merged": "/Users/claytondarlington/School/CIS3760/cis3760proj/build/intermediates/res/merged/debug/drawable-xhdpi_ic_pref_markdown_dark.png.flat",
+        "source": "/Users/claytondarlington/School/CIS3760/cis3760proj/src/main/res/drawable-xhdpi/ic_pref_markdown_dark.png"
+    },
+    {
+        "merged": "/Users/claytondarlington/School/CIS3760/cis3760proj/build/intermediates/res/merged/debug/drawable-xhdpi_ic_pref_about.png.flat",
+        "source": "/Users/claytondarlington/School/CIS3760/cis3760proj/src/main/res/drawable-xhdpi/ic_pref_about.png"
+    },
+    {
+        "merged": "/Users/claytondarlington/School/CIS3760/cis3760proj/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_action_forward.png.flat",
+        "source": "/Users/claytondarlington/School/CIS3760/cis3760proj/src/main/res/drawable-xxxhdpi/ic_action_forward.png"
+    },
+    {
+        "merged": "/Users/claytondarlington/School/CIS3760/cis3760proj/build/intermediates/res/merged/debug/drawable_ic_action_today_disabled.xml.flat",
+        "source": "/Users/claytondarlington/School/CIS3760/cis3760proj/src/main/res/drawable/ic_action_today_disabled.xml"
+    },
+    {
+        "merged": "/Users/claytondarlington/School/CIS3760/cis3760proj/build/intermediates/res/merged/debug/drawable-mdpi_ic_pref_external_dark.png.flat",
+        "source": "/Users/claytondarlington/School/CIS3760/cis3760proj/src/main/res/drawable-mdpi/ic_pref_external_dark.png"
+    },
+    {
+        "merged": "/Users/claytondarlington/School/CIS3760/cis3760proj/build/intermediates/res/merged/debug/drawable_ic_down.xml.flat",
+        "source": "/Users/claytondarlington/School/CIS3760/cis3760proj/src/main/res/drawable/ic_down.xml"
+    },
+    {
+        "merged": "/Users/claytondarlington/School/CIS3760/cis3760proj/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_pref_about.png.flat",
+        "source": "/Users/claytondarlington/School/CIS3760/cis3760proj/src/main/res/drawable-xxhdpi/ic_pref_about.png"
+    },
+    {
+        "merged": "/Users/claytondarlington/School/CIS3760/cis3760proj/build/intermediates/res/merged/debug/drawable-hdpi_ic_action_settings.png.flat",
+        "source": "/Users/claytondarlington/School/CIS3760/cis3760proj/src/main/res/drawable-hdpi/ic_action_settings.png"
+    },
+    {
+        "merged": "/Users/claytondarlington/School/CIS3760/cis3760proj/build/intermediates/res/merged/debug/drawable-xhdpi_ic_pref_markdown.png.flat",
+        "source": "/Users/claytondarlington/School/CIS3760/cis3760proj/src/main/res/drawable-xhdpi/ic_pref_markdown.png"
+    },
+    {
+        "merged": "/Users/claytondarlington/School/CIS3760/cis3760proj/build/intermediates/res/merged/debug/drawable-hdpi_ic_action_accept.png.flat",
+        "source": "/Users/claytondarlington/School/CIS3760/cis3760proj/src/main/res/drawable-hdpi/ic_action_accept.png"
+    },
+    {
+        "merged": "/Users/claytondarlington/School/CIS3760/cis3760proj/build/intermediates/res/merged/debug/drawable-xhdpi_ic_pref_folder_dark.png.flat",
+        "source": "/Users/claytondarlington/School/CIS3760/cis3760proj/src/main/res/drawable-xhdpi/ic_pref_folder_dark.png"
+    },
+    {
+        "merged": "/Users/claytondarlington/School/CIS3760/cis3760proj/build/intermediates/res/merged/debug/drawable-xhdpi_ic_pref_calendar_dark.png.flat",
+        "source": "/Users/claytondarlington/School/CIS3760/cis3760proj/src/main/res/drawable-xhdpi/ic_pref_calendar_dark.png"
+    },
+    {
+        "merged": "/Users/claytondarlington/School/CIS3760/cis3760proj/build/intermediates/res/merged/debug/drawable-hdpi_filled_star.png.flat",
+        "source": "/Users/claytondarlington/School/CIS3760/cis3760proj/src/main/res/drawable-hdpi/filled_star.png"
+    },
+    {
+        "merged": "/Users/claytondarlington/School/CIS3760/cis3760proj/build/intermediates/res/merged/debug/anim_swipe_left_in.xml.flat",
+        "source": "/Users/claytondarlington/School/CIS3760/cis3760proj/src/main/res/anim/swipe_left_in.xml"
+    },
+    {
+        "merged": "/Users/claytondarlington/School/CIS3760/cis3760proj/build/intermediates/res/merged/debug/layout_week_4.xml.flat",
+        "source": "/Users/claytondarlington/School/CIS3760/cis3760proj/src/main/res/layout/week_4.xml"
+    },
+    {
+        "merged": "/Users/claytondarlington/School/CIS3760/cis3760proj/build/intermediates/res/merged/debug/drawable_ic_up.xml.flat",
+        "source": "/Users/claytondarlington/School/CIS3760/cis3760proj/src/main/res/drawable/ic_up.xml"
+    },
+    {
+        "merged": "/Users/claytondarlington/School/CIS3760/cis3760proj/build/intermediates/res/merged/debug/drawable-mdpi_ic_action_settings.png.flat",
+        "source": "/Users/claytondarlington/School/CIS3760/cis3760proj/src/main/res/drawable-mdpi/ic_action_settings.png"
+    },
+    {
+        "merged": "/Users/claytondarlington/School/CIS3760/cis3760proj/build/intermediates/res/merged/debug/drawable-xhdpi_ic_action_settings.png.flat",
+        "source": "/Users/claytondarlington/School/CIS3760/cis3760proj/src/main/res/drawable-xhdpi/ic_action_settings.png"
+    },
+    {
+        "merged": "/Users/claytondarlington/School/CIS3760/cis3760proj/build/intermediates/res/merged/debug/drawable-mdpi_ic_action_go_to_date.png.flat",
+        "source": "/Users/claytondarlington/School/CIS3760/cis3760proj/src/main/res/drawable-mdpi/ic_action_go_to_date.png"
+    },
+    {
+        "merged": "/Users/claytondarlington/School/CIS3760/cis3760proj/build/intermediates/res/merged/debug/drawable-hdpi_happy.png.flat",
+        "source": "/Users/claytondarlington/School/CIS3760/cis3760proj/src/main/res/drawable-hdpi/happy.png"
+    },
+    {
+        "merged": "/Users/claytondarlington/School/CIS3760/cis3760proj/build/intermediates/res/merged/debug/drawable-xhdpi_ic_pref_about_dark.png.flat",
+        "source": "/Users/claytondarlington/School/CIS3760/cis3760proj/src/main/res/drawable-xhdpi/ic_pref_about_dark.png"
+    },
+    {
+        "merged": "/Users/claytondarlington/School/CIS3760/cis3760proj/build/intermediates/res/merged/debug/drawable-hdpi_ic_pref_copy_media.png.flat",
+        "source": "/Users/claytondarlington/School/CIS3760/cis3760proj/src/main/res/drawable-hdpi/ic_pref_copy_media.png"
+    },
+    {
+        "merged": "/Users/claytondarlington/School/CIS3760/cis3760proj/build/intermediates/res/merged/debug/drawable-xhdpi_ic_pref_dark_theme.png.flat",
+        "source": "/Users/claytondarlington/School/CIS3760/cis3760proj/src/main/res/drawable-xhdpi/ic_pref_dark_theme.png"
+    },
+    {
+        "merged": "/Users/claytondarlington/School/CIS3760/cis3760proj/build/intermediates/res/merged/debug/drawable-mdpi_ic_pref_calendar.png.flat",
+        "source": "/Users/claytondarlington/School/CIS3760/cis3760proj/src/main/res/drawable-mdpi/ic_pref_calendar.png"
+    },
+    {
+        "merged": "/Users/claytondarlington/School/CIS3760/cis3760proj/build/intermediates/res/merged/debug/drawable-mdpi_ic_pref_about_dark.png.flat",
+        "source": "/Users/claytondarlington/School/CIS3760/cis3760proj/src/main/res/drawable-mdpi/ic_pref_about_dark.png"
+    },
+    {
+        "merged": "/Users/claytondarlington/School/CIS3760/cis3760proj/build/intermediates/res/merged/debug/drawable-mdpi_ic_action_accept.png.flat",
+        "source": "/Users/claytondarlington/School/CIS3760/cis3760proj/src/main/res/drawable-mdpi/ic_action_accept.png"
+    },
+    {
+        "merged": "/Users/claytondarlington/School/CIS3760/cis3760proj/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_launcher.png.flat",
+        "source": "/Users/claytondarlington/School/CIS3760/cis3760proj/src/main/res/drawable-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/claytondarlington/School/CIS3760/cis3760proj/build/intermediates/res/merged/debug/drawable-mdpi_ic_pref_dark_theme_dark.png.flat",
+        "source": "/Users/claytondarlington/School/CIS3760/cis3760proj/src/main/res/drawable-mdpi/ic_pref_dark_theme_dark.png"
+    },
+    {
+        "merged": "/Users/claytondarlington/School/CIS3760/cis3760proj/build/intermediates/res/merged/debug/drawable-hdpi_ic_pref_markdown.png.flat",
+        "source": "/Users/claytondarlington/School/CIS3760/cis3760proj/src/main/res/drawable-hdpi/ic_pref_markdown.png"
+    },
+    {
+        "merged": "/Users/claytondarlington/School/CIS3760/cis3760proj/build/intermediates/res/merged/debug/anim_activity_close_exit.xml.flat",
+        "source": "/Users/claytondarlington/School/CIS3760/cis3760proj/src/main/res/anim/activity_close_exit.xml"
+    },
+    {
+        "merged": "/Users/claytondarlington/School/CIS3760/cis3760proj/build/intermediates/res/merged/debug/menu_main.xml.flat",
+        "source": "/Users/claytondarlington/School/CIS3760/cis3760proj/src/main/res/menu/main.xml"
+    },
+    {
+        "merged": "/Users/claytondarlington/School/CIS3760/cis3760proj/build/intermediates/res/merged/debug/drawable_ic_button_background.xml.flat",
+        "source": "/Users/claytondarlington/School/CIS3760/cis3760proj/src/main/res/drawable/ic_button_background.xml"
+    },
+    {
+        "merged": "/Users/claytondarlington/School/CIS3760/cis3760proj/build/intermediates/res/merged/debug/anim_flip_out.xml.flat",
+        "source": "/Users/claytondarlington/School/CIS3760/cis3760proj/src/main/res/anim/flip_out.xml"
+    },
+    {
+        "merged": "/Users/claytondarlington/School/CIS3760/cis3760proj/build/intermediates/res/merged/debug/drawable-xhdpi_ic_action_next_item.png.flat",
+        "source": "/Users/claytondarlington/School/CIS3760/cis3760proj/src/main/res/drawable-xhdpi/ic_action_next_item.png"
+    },
+    {
+        "merged": "/Users/claytondarlington/School/CIS3760/cis3760proj/build/intermediates/res/merged/debug/drawable-hdpi_sad.png.flat",
+        "source": "/Users/claytondarlington/School/CIS3760/cis3760proj/src/main/res/drawable-hdpi/sad.png"
+    },
+    {
+        "merged": "/Users/claytondarlington/School/CIS3760/cis3760proj/build/intermediates/res/merged/debug/drawable_ic_action_previous_disabled.xml.flat",
+        "source": "/Users/claytondarlington/School/CIS3760/cis3760proj/src/main/res/drawable/ic_action_previous_disabled.xml"
+    },
+    {
+        "merged": "/Users/claytondarlington/School/CIS3760/cis3760proj/build/intermediates/res/merged/debug/drawable-xhdpi_ic_action_save.png.flat",
+        "source": "/Users/claytondarlington/School/CIS3760/cis3760proj/src/main/res/drawable-xhdpi/ic_action_save.png"
+    },
+    {
+        "merged": "/Users/claytondarlington/School/CIS3760/cis3760proj/build/intermediates/res/merged/debug/drawable-mdpi_ic_pref_external.png.flat",
+        "source": "/Users/claytondarlington/School/CIS3760/cis3760proj/src/main/res/drawable-mdpi/ic_pref_external.png"
+    },
+    {
+        "merged": "/Users/claytondarlington/School/CIS3760/cis3760proj/build/intermediates/res/merged/debug/drawable-hdpi_demo_icon.png.flat",
+        "source": "/Users/claytondarlington/School/CIS3760/cis3760proj/src/main/res/drawable-hdpi/demo_icon.png"
+    },
+    {
+        "merged": "/Users/claytondarlington/School/CIS3760/cis3760proj/build/intermediates/res/merged/debug/drawable-hdpi_school.png.flat",
+        "source": "/Users/claytondarlington/School/CIS3760/cis3760proj/src/main/res/drawable-hdpi/school.png"
+    },
+    {
+        "merged": "/Users/claytondarlington/School/CIS3760/cis3760proj/build/intermediates/res/merged/debug/drawable-hdpi_ic_action_forward.png.flat",
+        "source": "/Users/claytondarlington/School/CIS3760/cis3760proj/src/main/res/drawable-hdpi/ic_action_forward.png"
+    },
+    {
+        "merged": "/Users/claytondarlington/School/CIS3760/cis3760proj/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_pref_copy_media_dark.png.flat",
+        "source": "/Users/claytondarlington/School/CIS3760/cis3760proj/src/main/res/drawable-xxhdpi/ic_pref_copy_media_dark.png"
+    },
+    {
+        "merged": "/Users/claytondarlington/School/CIS3760/cis3760proj/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_action_previous_item.png.flat",
+        "source": "/Users/claytondarlington/School/CIS3760/cis3760proj/src/main/res/drawable-xxhdpi/ic_action_previous_item.png"
+    },
+    {
+        "merged": "/Users/claytondarlington/School/CIS3760/cis3760proj/build/intermediates/res/merged/debug/layout_month.xml.flat",
+        "source": "/Users/claytondarlington/School/CIS3760/cis3760proj/src/main/res/layout/month.xml"
+    },
+    {
+        "merged": "/Users/claytondarlington/School/CIS3760/cis3760proj/build/intermediates/res/merged/debug/drawable-xhdpi_ic_pref_external_dark.png.flat",
+        "source": "/Users/claytondarlington/School/CIS3760/cis3760proj/src/main/res/drawable-xhdpi/ic_pref_external_dark.png"
+    },
+    {
+        "merged": "/Users/claytondarlington/School/CIS3760/cis3760proj/build/intermediates/res/merged/debug/drawable-mdpi_ic_pref_calendar_dark.png.flat",
+        "source": "/Users/claytondarlington/School/CIS3760/cis3760proj/src/main/res/drawable-mdpi/ic_pref_calendar_dark.png"
+    },
+    {
+        "merged": "/Users/claytondarlington/School/CIS3760/cis3760proj/build/intermediates/res/merged/debug/layout_editor.xml.flat",
+        "source": "/Users/claytondarlington/School/CIS3760/cis3760proj/src/main/res/layout/editor.xml"
+    },
+    {
+        "merged": "/Users/claytondarlington/School/CIS3760/cis3760proj/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_pref_dark_theme_dark.png.flat",
+        "source": "/Users/claytondarlington/School/CIS3760/cis3760proj/src/main/res/drawable-xxhdpi/ic_pref_dark_theme_dark.png"
+    },
+    {
+        "merged": "/Users/claytondarlington/School/CIS3760/cis3760proj/build/intermediates/res/merged/debug/layout_main.xml.flat",
+        "source": "/Users/claytondarlington/School/CIS3760/cis3760proj/src/main/res/layout/main.xml"
+    },
+    {
+        "merged": "/Users/claytondarlington/School/CIS3760/cis3760proj/build/intermediates/res/merged/debug/drawable-hdpi_stressed.png.flat",
+        "source": "/Users/claytondarlington/School/CIS3760/cis3760proj/src/main/res/drawable-hdpi/stressed.png"
+    },
+    {
+        "merged": "/Users/claytondarlington/School/CIS3760/cis3760proj/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_action_edit.png.flat",
+        "source": "/Users/claytondarlington/School/CIS3760/cis3760proj/src/main/res/drawable-xxhdpi/ic_action_edit.png"
+    },
+    {
+        "merged": "/Users/claytondarlington/School/CIS3760/cis3760proj/build/intermediates/res/merged/debug/drawable-hdpi_ic_action_picture.png.flat",
+        "source": "/Users/claytondarlington/School/CIS3760/cis3760proj/src/main/res/drawable-hdpi/ic_action_picture.png"
+    },
+    {
+        "merged": "/Users/claytondarlington/School/CIS3760/cis3760proj/build/intermediates/res/merged/debug/xml_filepaths.xml.flat",
+        "source": "/Users/claytondarlington/School/CIS3760/cis3760proj/src/main/res/xml/filepaths.xml"
+    },
+    {
+        "merged": "/Users/claytondarlington/School/CIS3760/cis3760proj/build/intermediates/res/merged/debug/drawable-mdpi_ic_action_save.png.flat",
+        "source": "/Users/claytondarlington/School/CIS3760/cis3760proj/src/main/res/drawable-mdpi/ic_action_save.png"
+    },
+    {
+        "merged": "/Users/claytondarlington/School/CIS3760/cis3760proj/build/intermediates/res/merged/debug/drawable_ic_action_today.xml.flat",
+        "source": "/Users/claytondarlington/School/CIS3760/cis3760proj/src/main/res/drawable/ic_action_today.xml"
+    },
+    {
+        "merged": "/Users/claytondarlington/School/CIS3760/cis3760proj/build/intermediates/res/merged/debug/drawable-mdpi_ic_pref_copy_media.png.flat",
+        "source": "/Users/claytondarlington/School/CIS3760/cis3760proj/src/main/res/drawable-mdpi/ic_pref_copy_media.png"
+    },
+    {
+        "merged": "/Users/claytondarlington/School/CIS3760/cis3760proj/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_action_save.png.flat",
+        "source": "/Users/claytondarlington/School/CIS3760/cis3760proj/src/main/res/drawable-xxhdpi/ic_action_save.png"
+    },
+    {
+        "merged": "/Users/claytondarlington/School/CIS3760/cis3760proj/build/intermediates/res/merged/debug/drawable-xhdpi_ic_pref_copy_media.png.flat",
+        "source": "/Users/claytondarlington/School/CIS3760/cis3760proj/src/main/res/drawable-xhdpi/ic_pref_copy_media.png"
+    },
+    {
+        "merged": "/Users/claytondarlington/School/CIS3760/cis3760proj/build/intermediates/res/merged/debug/drawable-mdpi_ic_pref_markdown.png.flat",
+        "source": "/Users/claytondarlington/School/CIS3760/cis3760proj/src/main/res/drawable-mdpi/ic_pref_markdown.png"
+    },
+    {
+        "merged": "/Users/claytondarlington/School/CIS3760/cis3760proj/build/intermediates/res/merged/debug/drawable-mdpi_ic_action_share.png.flat",
+        "source": "/Users/claytondarlington/School/CIS3760/cis3760proj/src/main/res/drawable-mdpi/ic_action_share.png"
+    },
+    {
+        "merged": "/Users/claytondarlington/School/CIS3760/cis3760proj/build/intermediates/res/merged/debug/drawable-mdpi_ic_action_expand.png.flat",
+        "source": "/Users/claytondarlington/School/CIS3760/cis3760proj/src/main/res/drawable-mdpi/ic_action_expand.png"
+    },
+    {
+        "merged": "/Users/claytondarlington/School/CIS3760/cis3760proj/build/intermediates/res/merged/debug/drawable-hdpi_ic_pref_dark_theme.png.flat",
+        "source": "/Users/claytondarlington/School/CIS3760/cis3760proj/src/main/res/drawable-hdpi/ic_pref_dark_theme.png"
+    },
+    {
+        "merged": "/Users/claytondarlington/School/CIS3760/cis3760proj/build/intermediates/res/merged/debug/drawable-hdpi_ic_action_edit.png.flat",
+        "source": "/Users/claytondarlington/School/CIS3760/cis3760proj/src/main/res/drawable-hdpi/ic_action_edit.png"
+    },
+    {
+        "merged": "/Users/claytondarlington/School/CIS3760/cis3760proj/build/intermediates/res/merged/debug/layout_week_6.xml.flat",
+        "source": "/Users/claytondarlington/School/CIS3760/cis3760proj/src/main/res/layout/week_6.xml"
+    },
+    {
+        "merged": "/Users/claytondarlington/School/CIS3760/cis3760proj/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_pref_markdown_dark.png.flat",
+        "source": "/Users/claytondarlington/School/CIS3760/cis3760proj/src/main/res/drawable-xxhdpi/ic_pref_markdown_dark.png"
+    },
+    {
+        "merged": "/Users/claytondarlington/School/CIS3760/cis3760proj/build/intermediates/res/merged/debug/drawable-xhdpi_ic_pref_calendar.png.flat",
+        "source": "/Users/claytondarlington/School/CIS3760/cis3760proj/src/main/res/drawable-xhdpi/ic_pref_calendar.png"
+    },
+    {
+        "merged": "/Users/claytondarlington/School/CIS3760/cis3760proj/build/intermediates/res/merged/debug/drawable-mdpi_ic_action_search.png.flat",
+        "source": "/Users/claytondarlington/School/CIS3760/cis3760proj/src/main/res/drawable-mdpi/ic_action_search.png"
+    },
+    {
+        "merged": "/Users/claytondarlington/School/CIS3760/cis3760proj/build/intermediates/res/merged/debug/drawable-hdpi_ic_action_save.png.flat",
+        "source": "/Users/claytondarlington/School/CIS3760/cis3760proj/src/main/res/drawable-hdpi/ic_action_save.png"
+    },
+    {
+        "merged": "/Users/claytondarlington/School/CIS3760/cis3760proj/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_action_go_to_date.png.flat",
+        "source": "/Users/claytondarlington/School/CIS3760/cis3760proj/src/main/res/drawable-xxhdpi/ic_action_go_to_date.png"
+    },
+    {
+        "merged": "/Users/claytondarlington/School/CIS3760/cis3760proj/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_pref_calendar.png.flat",
+        "source": "/Users/claytondarlington/School/CIS3760/cis3760proj/src/main/res/drawable-xxhdpi/ic_pref_calendar.png"
+    },
+    {
+        "merged": "/Users/claytondarlington/School/CIS3760/cis3760proj/build/intermediates/res/merged/debug/drawable-xhdpi_ic_action_picture.png.flat",
+        "source": "/Users/claytondarlington/School/CIS3760/cis3760proj/src/main/res/drawable-xhdpi/ic_action_picture.png"
+    },
+    {
+        "merged": "/Users/claytondarlington/School/CIS3760/cis3760proj/build/intermediates/res/merged/debug/drawable-hdpi_recreation.png.flat",
+        "source": "/Users/claytondarlington/School/CIS3760/cis3760proj/src/main/res/drawable-hdpi/recreation.png"
+    },
+    {
+        "merged": "/Users/claytondarlington/School/CIS3760/cis3760proj/build/intermediates/res/merged/debug/layout_week_3.xml.flat",
+        "source": "/Users/claytondarlington/School/CIS3760/cis3760proj/src/main/res/layout/week_3.xml"
+    },
+    {
+        "merged": "/Users/claytondarlington/School/CIS3760/cis3760proj/build/intermediates/res/merged/debug/drawable-hdpi_ic_action_time.png.flat",
+        "source": "/Users/claytondarlington/School/CIS3760/cis3760proj/src/main/res/drawable-hdpi/ic_action_time.png"
+    },
+    {
+        "merged": "/Users/claytondarlington/School/CIS3760/cis3760proj/build/intermediates/res/merged/debug/drawable-hdpi_ic_pref_dark_theme_dark.png.flat",
+        "source": "/Users/claytondarlington/School/CIS3760/cis3760proj/src/main/res/drawable-hdpi/ic_pref_dark_theme_dark.png"
+    },
+    {
+        "merged": "/Users/claytondarlington/School/CIS3760/cis3760proj/build/intermediates/res/merged/debug/drawable-mdpi_ic_pref_folder_dark.png.flat",
+        "source": "/Users/claytondarlington/School/CIS3760/cis3760proj/src/main/res/drawable-mdpi/ic_pref_folder_dark.png"
+    },
+    {
+        "merged": "/Users/claytondarlington/School/CIS3760/cis3760proj/build/intermediates/res/merged/debug/drawable-xhdpi_ic_action_expand.png.flat",
+        "source": "/Users/claytondarlington/School/CIS3760/cis3760proj/src/main/res/drawable-xhdpi/ic_action_expand.png"
+    },
+    {
+        "merged": "/Users/claytondarlington/School/CIS3760/cis3760proj/build/intermediates/res/merged/debug/drawable-hdpi_ic_pref_folder_dark.png.flat",
+        "source": "/Users/claytondarlington/School/CIS3760/cis3760proj/src/main/res/drawable-hdpi/ic_pref_folder_dark.png"
+    },
+    {
+        "merged": "/Users/claytondarlington/School/CIS3760/cis3760proj/build/intermediates/res/merged/debug/drawable-xhdpi_ic_action_share.png.flat",
+        "source": "/Users/claytondarlington/School/CIS3760/cis3760proj/src/main/res/drawable-xhdpi/ic_action_share.png"
+    },
+    {
+        "merged": "/Users/claytondarlington/School/CIS3760/cis3760proj/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_pref_about_dark.png.flat",
+        "source": "/Users/claytondarlington/School/CIS3760/cis3760proj/src/main/res/drawable-xxhdpi/ic_pref_about_dark.png"
+    },
+    {
+        "merged": "/Users/claytondarlington/School/CIS3760/cis3760proj/build/intermediates/res/merged/debug/drawable-xhdpi_ic_action_forward.png.flat",
+        "source": "/Users/claytondarlington/School/CIS3760/cis3760proj/src/main/res/drawable-xhdpi/ic_action_forward.png"
+    },
+    {
+        "merged": "/Users/claytondarlington/School/CIS3760/cis3760proj/build/intermediates/res/merged/debug/drawable-xhdpi_ic_pref_folder.png.flat",
+        "source": "/Users/claytondarlington/School/CIS3760/cis3760proj/src/main/res/drawable-xhdpi/ic_pref_folder.png"
+    },
+    {
+        "merged": "/Users/claytondarlington/School/CIS3760/cis3760proj/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_action_back.png.flat",
+        "source": "/Users/claytondarlington/School/CIS3760/cis3760proj/src/main/res/drawable-xxxhdpi/ic_action_back.png"
+    },
+    {
+        "merged": "/Users/claytondarlington/School/CIS3760/cis3760proj/build/intermediates/res/merged/debug/drawable-mdpi_ic_action_time.png.flat",
+        "source": "/Users/claytondarlington/School/CIS3760/cis3760proj/src/main/res/drawable-mdpi/ic_action_time.png"
+    },
+    {
+        "merged": "/Users/claytondarlington/School/CIS3760/cis3760proj/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_action_time.png.flat",
+        "source": "/Users/claytondarlington/School/CIS3760/cis3760proj/src/main/res/drawable-xxhdpi/ic_action_time.png"
+    },
+    {
+        "merged": "/Users/claytondarlington/School/CIS3760/cis3760proj/build/intermediates/res/merged/debug/anim_swipe_right_in.xml.flat",
+        "source": "/Users/claytondarlington/School/CIS3760/cis3760proj/src/main/res/anim/swipe_right_in.xml"
+    },
+    {
+        "merged": "/Users/claytondarlington/School/CIS3760/cis3760proj/build/intermediates/res/merged/debug/drawable-hdpi_ic_pref_folder.png.flat",
+        "source": "/Users/claytondarlington/School/CIS3760/cis3760proj/src/main/res/drawable-hdpi/ic_pref_folder.png"
+    },
+    {
+        "merged": "/Users/claytondarlington/School/CIS3760/cis3760proj/build/intermediates/res/merged/debug/drawable-hdpi_ic_action_search.png.flat",
+        "source": "/Users/claytondarlington/School/CIS3760/cis3760proj/src/main/res/drawable-hdpi/ic_action_search.png"
+    },
+    {
+        "merged": "/Users/claytondarlington/School/CIS3760/cis3760proj/build/intermediates/res/merged/debug/layout_dialog.xml.flat",
+        "source": "/Users/claytondarlington/School/CIS3760/cis3760proj/src/main/res/layout/dialog.xml"
+    },
+    {
+        "merged": "/Users/claytondarlington/School/CIS3760/cis3760proj/build/intermediates/res/merged/debug/drawable_ic_action_previous.xml.flat",
+        "source": "/Users/claytondarlington/School/CIS3760/cis3760proj/src/main/res/drawable/ic_action_previous.xml"
+    },
+    {
+        "merged": "/Users/claytondarlington/School/CIS3760/cis3760proj/build/intermediates/res/merged/debug/drawable-xhdpi_ic_action_edit.png.flat",
+        "source": "/Users/claytondarlington/School/CIS3760/cis3760proj/src/main/res/drawable-xhdpi/ic_action_edit.png"
+    },
+    {
+        "merged": "/Users/claytondarlington/School/CIS3760/cis3760proj/build/intermediates/res/merged/debug/drawable-hdpi_ic_pref_calendar.png.flat",
+        "source": "/Users/claytondarlington/School/CIS3760/cis3760proj/src/main/res/drawable-hdpi/ic_pref_calendar.png"
+    },
+    {
+        "merged": "/Users/claytondarlington/School/CIS3760/cis3760proj/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_action_next_item.png.flat",
+        "source": "/Users/claytondarlington/School/CIS3760/cis3760proj/src/main/res/drawable-xxhdpi/ic_action_next_item.png"
+    },
+    {
+        "merged": "/Users/claytondarlington/School/CIS3760/cis3760proj/build/intermediates/res/merged/debug/drawable-xhdpi_ic_action_back.png.flat",
+        "source": "/Users/claytondarlington/School/CIS3760/cis3760proj/src/main/res/drawable-xhdpi/ic_action_back.png"
+    },
+    {
+        "merged": "/Users/claytondarlington/School/CIS3760/cis3760proj/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_action_forward.png.flat",
+        "source": "/Users/claytondarlington/School/CIS3760/cis3760proj/src/main/res/drawable-xxhdpi/ic_action_forward.png"
+    },
+    {
+        "merged": "/Users/claytondarlington/School/CIS3760/cis3760proj/build/intermediates/res/merged/debug/drawable-hdpi_ic_pref_external.png.flat",
+        "source": "/Users/claytondarlington/School/CIS3760/cis3760proj/src/main/res/drawable-hdpi/ic_pref_external.png"
+    },
+    {
+        "merged": "/Users/claytondarlington/School/CIS3760/cis3760proj/build/intermediates/res/merged/debug/layout_calendar.xml.flat",
+        "source": "/Users/claytondarlington/School/CIS3760/cis3760proj/src/main/res/layout/calendar.xml"
+    },
+    {
+        "merged": "/Users/claytondarlington/School/CIS3760/cis3760proj/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_action_settings.png.flat",
+        "source": "/Users/claytondarlington/School/CIS3760/cis3760proj/src/main/res/drawable-xxhdpi/ic_action_settings.png"
+    },
+    {
+        "merged": "/Users/claytondarlington/School/CIS3760/cis3760proj/build/intermediates/res/merged/debug/drawable-mdpi_ic_action_edit.png.flat",
+        "source": "/Users/claytondarlington/School/CIS3760/cis3760proj/src/main/res/drawable-mdpi/ic_action_edit.png"
+    },
+    {
+        "merged": "/Users/claytondarlington/School/CIS3760/cis3760proj/build/intermediates/res/merged/debug/anim_decelerate_cubic.xml.flat",
+        "source": "/Users/claytondarlington/School/CIS3760/cis3760proj/src/main/res/anim/decelerate_cubic.xml"
+    },
+    {
+        "merged": "/Users/claytondarlington/School/CIS3760/cis3760proj/build/intermediates/res/merged/debug/drawable-hdpi_ic_pref_markdown_dark.png.flat",
+        "source": "/Users/claytondarlington/School/CIS3760/cis3760proj/src/main/res/drawable-hdpi/ic_pref_markdown_dark.png"
+    },
+    {
+        "merged": "/Users/claytondarlington/School/CIS3760/cis3760proj/build/intermediates/res/merged/debug/drawable-xhdpi_ic_pref_dark_theme_dark.png.flat",
+        "source": "/Users/claytondarlington/School/CIS3760/cis3760proj/src/main/res/drawable-xhdpi/ic_pref_dark_theme_dark.png"
+    },
+    {
+        "merged": "/Users/claytondarlington/School/CIS3760/cis3760proj/build/intermediates/res/merged/debug/drawable-hdpi_ic_action_back.png.flat",
+        "source": "/Users/claytondarlington/School/CIS3760/cis3760proj/src/main/res/drawable-hdpi/ic_action_back.png"
+    },
+    {
+        "merged": "/Users/claytondarlington/School/CIS3760/cis3760proj/build/intermediates/res/merged/debug/drawable-hdpi_ic_pref_external_dark.png.flat",
+        "source": "/Users/claytondarlington/School/CIS3760/cis3760proj/src/main/res/drawable-hdpi/ic_pref_external_dark.png"
+    },
+    {
+        "merged": "/Users/claytondarlington/School/CIS3760/cis3760proj/build/intermediates/res/merged/debug/drawable_diary_entry.xml.flat",
+        "source": "/Users/claytondarlington/School/CIS3760/cis3760proj/src/main/res/drawable/diary_entry.xml"
+    },
+    {
+        "merged": "/Users/claytondarlington/School/CIS3760/cis3760proj/build/intermediates/res/merged/debug/drawable-mdpi_ic_pref_dark_theme.png.flat",
+        "source": "/Users/claytondarlington/School/CIS3760/cis3760proj/src/main/res/drawable-mdpi/ic_pref_dark_theme.png"
+    },
+    {
+        "merged": "/Users/claytondarlington/School/CIS3760/cis3760proj/build/intermediates/res/merged/debug/drawable-hdpi_ic_action_previous_item.png.flat",
+        "source": "/Users/claytondarlington/School/CIS3760/cis3760proj/src/main/res/drawable-hdpi/ic_action_previous_item.png"
+    },
+    {
+        "merged": "/Users/claytondarlington/School/CIS3760/cis3760proj/build/intermediates/res/merged/debug/drawable-hdpi_briefcase.png.flat",
+        "source": "/Users/claytondarlington/School/CIS3760/cis3760proj/src/main/res/drawable-hdpi/briefcase.png"
+    },
+    {
+        "merged": "/Users/claytondarlington/School/CIS3760/cis3760proj/build/intermediates/res/merged/debug/drawable_selected.xml.flat",
+        "source": "/Users/claytondarlington/School/CIS3760/cis3760proj/src/main/res/drawable/selected.xml"
+    },
+    {
+        "merged": "/Users/claytondarlington/School/CIS3760/cis3760proj/build/intermediates/res/merged/debug/drawable-hdpi_ic_pref_calendar_dark.png.flat",
+        "source": "/Users/claytondarlington/School/CIS3760/cis3760proj/src/main/res/drawable-hdpi/ic_pref_calendar_dark.png"
+    },
+    {
+        "merged": "/Users/claytondarlington/School/CIS3760/cis3760proj/build/intermediates/res/merged/debug/drawable-mdpi_ic_action_next_item.png.flat",
+        "source": "/Users/claytondarlington/School/CIS3760/cis3760proj/src/main/res/drawable-mdpi/ic_action_next_item.png"
+    },
+    {
+        "merged": "/Users/claytondarlington/School/CIS3760/cis3760proj/build/intermediates/res/merged/debug/drawable-hdpi_ic_action_go_to_date.png.flat",
+        "source": "/Users/claytondarlington/School/CIS3760/cis3760proj/src/main/res/drawable-hdpi/ic_action_go_to_date.png"
+    },
+    {
+        "merged": "/Users/claytondarlington/School/CIS3760/cis3760proj/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_pref_copy_media.png.flat",
+        "source": "/Users/claytondarlington/School/CIS3760/cis3760proj/src/main/res/drawable-xxhdpi/ic_pref_copy_media.png"
+    },
+    {
+        "merged": "/Users/claytondarlington/School/CIS3760/cis3760proj/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_launcher.png.flat",
+        "source": "/Users/claytondarlington/School/CIS3760/cis3760proj/src/main/res/drawable-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/claytondarlington/School/CIS3760/cis3760proj/build/intermediates/res/merged/debug/drawable-hdpi_ic_pref_copy_media_dark.png.flat",
+        "source": "/Users/claytondarlington/School/CIS3760/cis3760proj/src/main/res/drawable-hdpi/ic_pref_copy_media_dark.png"
+    },
+    {
+        "merged": "/Users/claytondarlington/School/CIS3760/cis3760proj/build/intermediates/res/merged/debug/drawable-mdpi_ic_pref_folder.png.flat",
+        "source": "/Users/claytondarlington/School/CIS3760/cis3760proj/src/main/res/drawable-mdpi/ic_pref_folder.png"
+    },
+    {
+        "merged": "/Users/claytondarlington/School/CIS3760/cis3760proj/build/intermediates/res/merged/debug/drawable-xhdpi_ic_action_time.png.flat",
+        "source": "/Users/claytondarlington/School/CIS3760/cis3760proj/src/main/res/drawable-xhdpi/ic_action_time.png"
+    },
+    {
+        "merged": "/Users/claytondarlington/School/CIS3760/cis3760proj/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_action_search.png.flat",
+        "source": "/Users/claytondarlington/School/CIS3760/cis3760proj/src/main/res/drawable-xxhdpi/ic_action_search.png"
+    },
+    {
+        "merged": "/Users/claytondarlington/School/CIS3760/cis3760proj/build/intermediates/res/merged/debug/drawable-hdpi_plus.png.flat",
+        "source": "/Users/claytondarlington/School/CIS3760/cis3760proj/src/main/res/drawable-hdpi/plus.png"
+    },
+    {
+        "merged": "/Users/claytondarlington/School/CIS3760/cis3760proj/build/intermediates/res/merged/debug/drawable-hdpi_ic_launcher.png.flat",
+        "source": "/Users/claytondarlington/School/CIS3760/cis3760proj/src/main/res/drawable-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/claytondarlington/School/CIS3760/cis3760proj/build/intermediates/res/merged/debug/drawable-hdpi_ic_action_expand.png.flat",
+        "source": "/Users/claytondarlington/School/CIS3760/cis3760proj/src/main/res/drawable-hdpi/ic_action_expand.png"
+    },
+    {
+        "merged": "/Users/claytondarlington/School/CIS3760/cis3760proj/build/intermediates/res/merged/debug/layout_about.xml.flat",
+        "source": "/Users/claytondarlington/School/CIS3760/cis3760proj/src/main/res/layout/about.xml"
+    },
+    {
+        "merged": "/Users/claytondarlington/School/CIS3760/cis3760proj/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_action_picture.png.flat",
+        "source": "/Users/claytondarlington/School/CIS3760/cis3760proj/src/main/res/drawable-xxhdpi/ic_action_picture.png"
+    },
+    {
+        "merged": "/Users/claytondarlington/School/CIS3760/cis3760proj/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_pref_folder_dark.png.flat",
+        "source": "/Users/claytondarlington/School/CIS3760/cis3760proj/src/main/res/drawable-xxhdpi/ic_pref_folder_dark.png"
+    },
+    {
+        "merged": "/Users/claytondarlington/School/CIS3760/cis3760proj/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_pref_folder.png.flat",
+        "source": "/Users/claytondarlington/School/CIS3760/cis3760proj/src/main/res/drawable-xxhdpi/ic_pref_folder.png"
+    },
+    {
+        "merged": "/Users/claytondarlington/School/CIS3760/cis3760proj/build/intermediates/res/merged/debug/drawable_ic_released.xml.flat",
+        "source": "/Users/claytondarlington/School/CIS3760/cis3760proj/src/main/res/drawable/ic_released.xml"
+    },
+    {
+        "merged": "/Users/claytondarlington/School/CIS3760/cis3760proj/build/intermediates/res/merged/debug/drawable-mdpi_ic_pref_markdown_dark.png.flat",
+        "source": "/Users/claytondarlington/School/CIS3760/cis3760proj/src/main/res/drawable-mdpi/ic_pref_markdown_dark.png"
+    },
+    {
+        "merged": "/Users/claytondarlington/School/CIS3760/cis3760proj/build/intermediates/res/merged/debug/layout_week_5.xml.flat",
+        "source": "/Users/claytondarlington/School/CIS3760/cis3760proj/src/main/res/layout/week_5.xml"
+    },
+    {
+        "merged": "/Users/claytondarlington/School/CIS3760/cis3760proj/build/intermediates/res/merged/debug/xml_preferences.xml.flat",
+        "source": "/Users/claytondarlington/School/CIS3760/cis3760proj/src/main/res/xml/preferences.xml"
+    },
+    {
+        "merged": "/Users/claytondarlington/School/CIS3760/cis3760proj/build/intermediates/res/merged/debug/drawable-hdpi_home.png.flat",
+        "source": "/Users/claytondarlington/School/CIS3760/cis3760proj/src/main/res/drawable-hdpi/home.png"
+    },
+    {
+        "merged": "/Users/claytondarlington/School/CIS3760/cis3760proj/build/intermediates/res/merged/debug/drawable-xhdpi_ic_action_accept.png.flat",
+        "source": "/Users/claytondarlington/School/CIS3760/cis3760proj/src/main/res/drawable-xhdpi/ic_action_accept.png"
+    },
+    {
+        "merged": "/Users/claytondarlington/School/CIS3760/cis3760proj/build/intermediates/res/merged/debug/drawable-xhdpi_ic_action_previous_item.png.flat",
+        "source": "/Users/claytondarlington/School/CIS3760/cis3760proj/src/main/res/drawable-xhdpi/ic_action_previous_item.png"
+    },
+    {
+        "merged": "/Users/claytondarlington/School/CIS3760/cis3760proj/build/intermediates/res/merged/debug/drawable-xhdpi_ic_action_search.png.flat",
+        "source": "/Users/claytondarlington/School/CIS3760/cis3760proj/src/main/res/drawable-xhdpi/ic_action_search.png"
+    },
+    {
+        "merged": "/Users/claytondarlington/School/CIS3760/cis3760proj/build/intermediates/res/merged/debug/layout_week_1.xml.flat",
+        "source": "/Users/claytondarlington/School/CIS3760/cis3760proj/src/main/res/layout/week_1.xml"
+    },
+    {
+        "merged": "/Users/claytondarlington/School/CIS3760/cis3760proj/build/intermediates/res/merged/debug/drawable-xhdpi_ic_action_go_to_date.png.flat",
+        "source": "/Users/claytondarlington/School/CIS3760/cis3760proj/src/main/res/drawable-xhdpi/ic_action_go_to_date.png"
+    },
+    {
+        "merged": "/Users/claytondarlington/School/CIS3760/cis3760proj/build/intermediates/res/merged/debug/drawable-mdpi_ic_pref_about.png.flat",
+        "source": "/Users/claytondarlington/School/CIS3760/cis3760proj/src/main/res/drawable-mdpi/ic_pref_about.png"
+    },
+    {
+        "merged": "/Users/claytondarlington/School/CIS3760/cis3760proj/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_action_back.png.flat",
+        "source": "/Users/claytondarlington/School/CIS3760/cis3760proj/src/main/res/drawable-xxhdpi/ic_action_back.png"
+    },
+    {
+        "merged": "/Users/claytondarlington/School/CIS3760/cis3760proj/build/intermediates/res/merged/debug/drawable_ic_action_next_disabled.xml.flat",
+        "source": "/Users/claytondarlington/School/CIS3760/cis3760proj/src/main/res/drawable/ic_action_next_disabled.xml"
+    },
+    {
+        "merged": "/Users/claytondarlington/School/CIS3760/cis3760proj/build/intermediates/res/merged/debug/drawable-mdpi_ic_action_back.png.flat",
+        "source": "/Users/claytondarlington/School/CIS3760/cis3760proj/src/main/res/drawable-mdpi/ic_action_back.png"
+    },
+    {
+        "merged": "/Users/claytondarlington/School/CIS3760/cis3760proj/build/intermediates/res/merged/debug/drawable-mdpi_ic_action_picture.png.flat",
+        "source": "/Users/claytondarlington/School/CIS3760/cis3760proj/src/main/res/drawable-mdpi/ic_action_picture.png"
+    },
+    {
+        "merged": "/Users/claytondarlington/School/CIS3760/cis3760proj/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_action_expand.png.flat",
+        "source": "/Users/claytondarlington/School/CIS3760/cis3760proj/src/main/res/drawable-xxhdpi/ic_action_expand.png"
+    },
+    {
+        "merged": "/Users/claytondarlington/School/CIS3760/cis3760proj/build/intermediates/res/merged/debug/layout_week_2.xml.flat",
+        "source": "/Users/claytondarlington/School/CIS3760/cis3760proj/src/main/res/layout/week_2.xml"
+    },
+    {
+        "merged": "/Users/claytondarlington/School/CIS3760/cis3760proj/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_pref_markdown.png.flat",
+        "source": "/Users/claytondarlington/School/CIS3760/cis3760proj/src/main/res/drawable-xxhdpi/ic_pref_markdown.png"
+    },
+    {
+        "merged": "/Users/claytondarlington/School/CIS3760/cis3760proj/build/intermediates/res/merged/debug/drawable_ic_pressed.xml.flat",
+        "source": "/Users/claytondarlington/School/CIS3760/cis3760proj/src/main/res/drawable/ic_pressed.xml"
+    },
+    {
+        "merged": "/Users/claytondarlington/School/CIS3760/cis3760proj/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_pref_calendar_dark.png.flat",
+        "source": "/Users/claytondarlington/School/CIS3760/cis3760proj/src/main/res/drawable-xxhdpi/ic_pref_calendar_dark.png"
+    },
+    {
+        "merged": "/Users/claytondarlington/School/CIS3760/cis3760proj/build/intermediates/res/merged/debug/drawable-xhdpi_ic_pref_copy_media_dark.png.flat",
+        "source": "/Users/claytondarlington/School/CIS3760/cis3760proj/src/main/res/drawable-xhdpi/ic_pref_copy_media_dark.png"
+    },
+    {
+        "merged": "/Users/claytondarlington/School/CIS3760/cis3760proj/build/intermediates/res/merged/debug/drawable-mdpi_ic_launcher.png.flat",
+        "source": "/Users/claytondarlington/School/CIS3760/cis3760proj/src/main/res/drawable-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/claytondarlington/School/CIS3760/cis3760proj/build/intermediates/res/merged/debug/drawable-hdpi_unfilled_star.png.flat",
+        "source": "/Users/claytondarlington/School/CIS3760/cis3760proj/src/main/res/drawable-hdpi/unfilled_star.png"
+    },
+    {
+        "merged": "/Users/claytondarlington/School/CIS3760/cis3760proj/build/intermediates/res/merged/debug/drawable_ic_background.xml.flat",
+        "source": "/Users/claytondarlington/School/CIS3760/cis3760proj/src/main/res/drawable/ic_background.xml"
+    },
+    {
+        "merged": "/Users/claytondarlington/School/CIS3760/cis3760proj/build/intermediates/res/merged/debug/drawable-hdpi_ic_action_share.png.flat",
+        "source": "/Users/claytondarlington/School/CIS3760/cis3760proj/src/main/res/drawable-hdpi/ic_action_share.png"
+    },
+    {
+        "merged": "/Users/claytondarlington/School/CIS3760/cis3760proj/build/intermediates/res/merged/debug/drawable-mdpi_ic_pref_copy_media_dark.png.flat",
+        "source": "/Users/claytondarlington/School/CIS3760/cis3760proj/src/main/res/drawable-mdpi/ic_pref_copy_media_dark.png"
+    },
+    {
+        "merged": "/Users/claytondarlington/School/CIS3760/cis3760proj/build/intermediates/res/merged/debug/drawable-xhdpi_ic_pref_external.png.flat",
+        "source": "/Users/claytondarlington/School/CIS3760/cis3760proj/src/main/res/drawable-xhdpi/ic_pref_external.png"
+    },
+    {
+        "merged": "/Users/claytondarlington/School/CIS3760/cis3760proj/build/intermediates/res/merged/debug/drawable-hdpi_ic_action_next_item.png.flat",
+        "source": "/Users/claytondarlington/School/CIS3760/cis3760proj/src/main/res/drawable-hdpi/ic_action_next_item.png"
+    },
+    {
+        "merged": "/Users/claytondarlington/School/CIS3760/cis3760proj/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_pref_external_dark.png.flat",
+        "source": "/Users/claytondarlington/School/CIS3760/cis3760proj/src/main/res/drawable-xxhdpi/ic_pref_external_dark.png"
+    },
+    {
+        "merged": "/Users/claytondarlington/School/CIS3760/cis3760proj/build/intermediates/res/merged/debug/drawable-mdpi_ic_action_forward.png.flat",
+        "source": "/Users/claytondarlington/School/CIS3760/cis3760proj/src/main/res/drawable-mdpi/ic_action_forward.png"
+    },
+    {
+        "merged": "/Users/claytondarlington/School/CIS3760/cis3760proj/build/intermediates/res/merged/debug/drawable-hdpi_ic_pref_about.png.flat",
+        "source": "/Users/claytondarlington/School/CIS3760/cis3760proj/src/main/res/drawable-hdpi/ic_pref_about.png"
+    },
+    {
+        "merged": "/Users/claytondarlington/School/CIS3760/cis3760proj/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_pref_dark_theme.png.flat",
+        "source": "/Users/claytondarlington/School/CIS3760/cis3760proj/src/main/res/drawable-xxhdpi/ic_pref_dark_theme.png"
+    },
+    {
+        "merged": "/Users/claytondarlington/School/CIS3760/cis3760proj/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_action_share.png.flat",
+        "source": "/Users/claytondarlington/School/CIS3760/cis3760proj/src/main/res/drawable-xxhdpi/ic_action_share.png"
+    },
+    {
+        "merged": "/Users/claytondarlington/School/CIS3760/cis3760proj/build/intermediates/res/merged/debug/anim_activity_open_enter.xml.flat",
+        "source": "/Users/claytondarlington/School/CIS3760/cis3760proj/src/main/res/anim/activity_open_enter.xml"
+    },
+    {
+        "merged": "/Users/claytondarlington/School/CIS3760/cis3760proj/build/intermediates/res/merged/debug/drawable-mdpi_ic_action_previous_item.png.flat",
+        "source": "/Users/claytondarlington/School/CIS3760/cis3760proj/src/main/res/drawable-mdpi/ic_action_previous_item.png"
+    },
+    {
+        "merged": "/Users/claytondarlington/School/CIS3760/cis3760proj/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_pref_external.png.flat",
+        "source": "/Users/claytondarlington/School/CIS3760/cis3760proj/src/main/res/drawable-xxhdpi/ic_pref_external.png"
+    },
+    {
+        "merged": "/Users/claytondarlington/School/CIS3760/cis3760proj/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_action_accept.png.flat",
+        "source": "/Users/claytondarlington/School/CIS3760/cis3760proj/src/main/res/drawable-xxhdpi/ic_action_accept.png"
+    }
+]

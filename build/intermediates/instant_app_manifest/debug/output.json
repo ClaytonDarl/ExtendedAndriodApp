@@ -1,0 +1,1 @@
+[{"outputType":{"type":"INSTANT_APP_MANIFEST"},"apkData":{"type":"MAIN","splits":[],"versionCode":161,"versionName":"1.61","enabled":true,"outputFile":"cis3760proj-debug.apk","fullName":"debug","baseName":"debug"},"path":"AndroidManifest.xml","properties":{"packageId":"org.billthefarmer.diary","split":"","minSdkVersion":"14"}}]
